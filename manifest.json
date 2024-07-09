@@ -1,0 +1,19 @@
+{
+  "name": "Deframe",
+  "id": "1388599484280767735",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["none"] },
+  "editorType": [
+    "figma"
+  ],
+  "menu": [
+    {
+      "name": "Deframe this!",
+      "command": "deframe"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "deframe",
+	"version": "1.0.1",
+	"description": "Deframe converts frames to shapes while maintaining the position of all of its child elements. That's it!",
+	"main": "code.js",
+	"author": {
+		"name": "Adam Englishby",
+		"email": "adam@englishby.ie"
+	},
+	"contributors": [
+		{
+			"name": "Adam Englishby",
+			"email": "adam@englishby.ie"
+		},
+		{
+			"name": "Josh Krauth-Harding",
+			"email": "hi@jkh.work"
+		}
+	],
+	"license": ""
+}
